@@ -1,4 +1,4 @@
-# Win2-7
+# Se7en Icon Theme
 ---
 Port of the original Win2-7 icon theme adjusted to work with GTK 3.18 +
 

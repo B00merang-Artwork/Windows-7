@@ -2,7 +2,7 @@
 Name=Win2-7 6.0
 
 # Import nonexistant icons from default 'gnome' theme
-Inherits=Gnome,Windows
+Inherits=Gnome,Windows,hicolor
 
 # Declare folders & subfolders
 Directories=actions,actions/16,actions/25,actions/48,actions/32,actions/MediaPlayer,animations,apps,apps/16,apps/64,categories,devices,devices/16,devices/48,devices/64,emblems,filesystems,filesystems/16,mimetypes,mimetypes/48,notifications,notifications/32,status,status/76,emotes,apps/32,status/48,status/64,categories/16,status/52,status/20,status/18

@@ -5,7 +5,7 @@
 ---
 Credits: https://www.gnome-look.org/content/show.php/Win2-7+Pack?content=113264
 
-This is my update of this theme for Cinnamon 6 - with changed tray icons + some color change to make the text read better. 
+This is my update of this theme for Cinnamon 6 - with changed tray icons
 
 +Mint Update tray icon is not in icon folder of any themes (or I don't know about it?), because of this to change this icon i replaced icons in apllet system folder, in my case /usr/share/cinnamon/applets/notifications@cinnamon.org/icons
 and you need to do this carefully and make a backup before doing this

@@ -2,10 +2,10 @@
 Name=Windows-7
 
 # Import nonexistant icons from default 'gnome' theme
-Inherits=Gnome,Windows,hicolor
+Inherits=Gnome,hicolor
 
 # Declare folders & subfolders
-Directories=actions,actions/16,actions/25,actions/48,actions/32,actions/MediaPlayer,animations,apps,apps/16,apps/64,categories,devices,devices/16,devices/48,devices/64,emblems,filesystems,filesystems/16,mimetypes,mimetypes/48,mimetypes/symbolic,notifications,notifications/32,status,status/76,emotes,apps/32,status/48,status/64,categories/16,scalable/actions,scalable/status,status/52,status/20,status/18,status/symbolic
+Directories=actions,actions/16,actions/25,actions/48,actions/32,actions/MediaPlayer,animations,apps,apps/16,apps/64,categories,devices,devices/16,devices/48,devices/64,emblems,filesystems,filesystems/16,mimetypes,mimetypes/48,mimetypes/symbolic,notifications,notifications/32,status,status/76,emotes,apps/32,status/48,status/64,categories/16,scalable/actions,scalable/apps,scalable/status,status/52,status/20,status/18,status/symbolic
 #,status/32           
 
 # Folder category & settings
@@ -178,6 +178,13 @@ Context=Actions
 Size=16
 MinSize=8
 MaxSize=512
+Type=Scalable
+
+[scalable/apps]
+MinSize=1
+Size=128
+MaxSize=256
+Context=Applications
 Type=Scalable
 
 [scalable/status]
